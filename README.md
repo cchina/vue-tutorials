@@ -1,4 +1,4 @@
-# Vue.js教程
+# Vue.js教程（注：该教程示例为版本1，非版本2）
 
 ## 1. Getting Started
 
